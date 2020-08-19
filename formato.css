@@ -1,0 +1,28 @@
+body{
+background-color:red;
+}
+h1{
+color:Black;
+font-weight:bold;
+font-family:"Goudy Stout";
+font-size:90px;
+text-align:center;
+}
+IMG.imgcenter{
+display:block;
+margin-left:auto;
+margin-right:auto;
+border:none;
+}
+h4{
+color:Blue;
+font-family:"Arial";
+font-size:40px;
+text-align:center;
+}
+h2{
+	color:Blue;
+	font-family:"Arial";
+	font-size:60px;
+	text-align:LEFT;
+}
